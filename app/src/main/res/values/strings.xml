@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoAI</string>
+    <string name="text_recognition">Text Recognition</string>
+    <string name="app_bar_name">PhotoAI</string>
+    <string name="recognized_text_placholder">Some recognized text</string>
+    <string name="sign_out">Wyloguj</string>
+</resources>
